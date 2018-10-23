@@ -1,0 +1,20 @@
+<package>
+	<id>com.yadkin.redditnoads</id>
+	<name>Reddit No Ads</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.3.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Removes "PROMOTED" posts from from the official Reddit app.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
